@@ -1,0 +1,14 @@
+{
+  "name": "ig_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "user-agents": "^1.0.425"
+  }
+}
